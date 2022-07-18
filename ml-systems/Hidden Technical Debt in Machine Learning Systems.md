@@ -8,7 +8,7 @@
     - Potential pre-processing & post-processing
     - Verification methods
 
-### Why configuration debt?
+### Why Configuration Debt?
 
 1. Not treating configurations as important (even though no. of lines of configuration is more than no. of lines of code)
 2. Configuration example:
